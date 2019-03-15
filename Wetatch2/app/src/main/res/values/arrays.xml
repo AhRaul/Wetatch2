@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="descriptions">
+        <item>Казань</item>
+        <item>Москва</item>
+        <item>Питер</item>
+    </string-array>
+    <array name="pictures">
+        <item>@drawable/kzn</item>
+        <item>@drawable/msc</item>
+        <item>@drawable/spb</item>
+    </array>
+</resources>

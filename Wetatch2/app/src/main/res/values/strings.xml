@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wetatch2</string>
+    <string name="action_settings">Settings</string>
+    <string name="params">параметры</string>
+    <string name="preferences">настройки</string>
+    <string name="hi">Hello World!</string>
+    <string name="position">Позиция - %d</string>
+    <string name="item">Item</string>
+</resources>
